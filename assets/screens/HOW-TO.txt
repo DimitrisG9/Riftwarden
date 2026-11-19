@@ -1,0 +1,3 @@
+Put screenshots here (1920x1080 JPG, around 300 KB each).
+Then add a line in content.js under screenshots, e.g.
+  { image: "assets/screens/arena.jpg", caption: "Arena combat" },
