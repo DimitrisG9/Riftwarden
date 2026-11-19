@@ -34,7 +34,7 @@ window.SITE = {
      actionUrl: the action="..." address from your Kit form's HTML embed code */
   signup: {
     provider: "kit",
-    actionUrl: "https://geo-games.kit.com/05954adb74"
+    actionUrl: "<script async data-uid="05954adb74" src="https://geo-games.kit.com/05954adb74/index.js"></script>"
   },
 
   /* ---------- Socials: paste your profile links. "" hides one. ---------- */
