@@ -33,8 +33,8 @@ window.SITE = {
      provider: "kit", "brevo" or "none" (none = preview mode, nothing is sent)
      actionUrl: the action="..." address from your Kit form's HTML embed code */
   signup: {
-    provider: "kit",
-    actionUrl: "<script async data-uid="05954adb74" src="https://geo-games.kit.com/05954adb74/index.js"></script>"
+    provider: "",
+    actionUrl: ""
   },
 
   /* ---------- Socials: paste your profile links. "" hides one. ---------- */
